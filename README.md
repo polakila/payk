@@ -66,7 +66,8 @@ James McKay
 Brothers, 2009
 Capt. Sam Cahill
 </p>
-<a href="#" OnClick="sver('details');return false;">Свернуть</a></div>
+</div>
+  <a href="#" OnClick="sver('details');return false;">Свернуть</a></div>
 </div>
 
 
