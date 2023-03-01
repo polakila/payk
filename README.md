@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> Человек Паук актеры </title>
 <link rel="stylesheet" href="valam.css">
 <script  type="text/javascript" src="sks.js"></script>
 </head>
