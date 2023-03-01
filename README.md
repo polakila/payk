@@ -1,6 +1,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="valam.css">
+  <script type="text/javascript" src="sks.js"></script>
 </head>
 <body>
 
@@ -75,4 +76,4 @@ Capt. Sam Cahill
 
 </body>
 </html>
-<script type="text/javascript" src="sks.js"></script>
+
