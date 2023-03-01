@@ -1,7 +1,5 @@
 <html>
 <head>
-
-<script type="text/javascript" src="sks.js"></script>
 <link rel="stylesheet" href="valam.css">
 </head>
 <body>
