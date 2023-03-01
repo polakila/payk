@@ -68,11 +68,3 @@ Capt. Sam Cahill
 </p>
 </div>
 <a href="#" OnClick="sver('details');return false;">Свернуть</a></div>
-
-
-
-
-
-</body>
-</html>
-
